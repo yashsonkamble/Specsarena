@@ -1,0 +1,40 @@
+.phone_images
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.navbar-brand
+{
+    width:auto;
+    height:65px;
+}
+.logo_img{
+    position: absolute;
+    flex-basis: 50%;     
+    height: 60px;
+    width: auto;
+    bottom: 22%;   
+}
+
+#logo_text{
+    font-size: 40px;
+    padding-left: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    position: absolute;
+}
+
+h1.img_text_homepage{
+    font-size: 60px;
+    margin-bottom: 5px;
+    color: black;
+}
+
+p.para_homepage{
+    font-size: 15px;
+    margin-top: 5px;
+    color: rgb(78, 78, 78);
+}
